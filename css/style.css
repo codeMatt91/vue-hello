@@ -3,3 +3,20 @@
    padding: 0;
    box-sizing: border-box;
 }
+.dimention {
+   height: 500px;
+   
+}
+.roman-style {
+   font-family: 'Lato', sans-serif;
+   font-weight: 900;
+   color: rgb(219, 178, 15);
+   font-size: 40px;
+   text-align: center;
+}
+
+.background {
+   background-image: url('..//img/Il-gladiatore.webp');
+   background-repeat: no-repeat;
+   background-position: center;
+}

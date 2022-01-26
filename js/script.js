@@ -18,6 +18,11 @@ const root = new Vue(
       el: '#root',
       data: {
          message: 'Sono Massimo Decimo Meridio, comandante delle legioni Phenix',
-      }
+         font: 'roman-style',
+         immagine: "img/Il-gladiatore.webp",
+         foto: 'background'
+      },
+      
+
    }
 );
